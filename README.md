@@ -1,4 +1,4 @@
-# Hi i'm **Double R**
+# Hi i'm **Crooked Smile**
 ### A little about me
 
 * I know litte bit of **JavaScript** and **HTML**
