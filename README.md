@@ -1,12 +1,8 @@
 # Hi i'm **Crooked Smile**
-### A little about me
+## A little about me
 
-* I know litte bit of **JavaScript** and **HTML**
-* I want to learn **C#**, **Java**, **More JavaScript**, and **Lua**
-* **C# (Unity)**, **Lua (Roblox/CYF)** and **Java (MC Plugins)** to enter game dev
-
-### Things I want to do
-
-- Have my own story SMP
-- Have a successful YouTube channel
-- Be a better person overall
+I'm 13 years old (Born June 22 2008) and I want to be a software developer and a successful YouTuber/Streamer
+ 
+### Current Project(s):
+- Self-insert AU Battles in CYF/CYK
+- Custom Origins for may friends
